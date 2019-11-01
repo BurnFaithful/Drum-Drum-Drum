@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 2bbf7fe49aab77d479dd9b016e22dea2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5208471977513522929
+    second: Note_Effect_0
+  - first:
+      213: 785413550287236243
+    second: Note_Effect_1
+  - first:
+      213: -3569643188795722808
+    second: Note_Effect_2
+  - first:
+      213: -2614440786203092975
+    second: Note_Effect_3
+  - first:
+      213: 9186823293851622211
+    second: Note_Effect_4
+  - first:
+      213: 4473017675976299203
+    second: Note_Effect_5
+  - first:
+      213: -8271061639773354212
+    second: Note_Effect_6
+  - first:
+      213: -8020418271565447780
+    second: Note_Effect_7
+  - first:
+      213: -226399741820768171
+    second: Note_Effect_8
+  - first:
+      213: -6215622664489742265
+    second: Note_Effect_9
+  - first:
+      213: -8337505006595587188
+    second: Note_Effect_10
+  - first:
+      213: -6220932671431496954
+    second: Note_Effect_11
+  - first:
+      213: 3274117221895605885
+    second: Note_Effect_12
+  - first:
+      213: 2304328564021852928
+    second: Note_Effect_13
+  - first:
+      213: 2367515244003767004
+    second: Note_Effect_14
+  - first:
+      213: 151279974958704982
+    second: Note_Effect_15
+  - first:
+      213: -7746946566436816044
+    second: Note_Effect_16
+  - first:
+      213: 4240529312748650375
+    second: Note_Effect_17
+  - first:
+      213: -4573246805226510054
+    second: Note_Effect_18
+  - first:
+      213: 5836662691138145873
+    second: Note_Effect_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Note_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 536
+        width: 70
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d60fb1a30cb744a3dd9a6aaf6a5da
+      internalID: -5208471977513522929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 536
+        width: 70
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85a0cb36be8e1545b5088eae485ec2d
+      internalID: 785413550287236243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 536
+        width: 70
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff861e35a04fc4ead601416802dc6b
+      internalID: -3569643188795722808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 536
+        width: 70
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d503c2a94d7a428c8627e9ee903ec
+      internalID: -2614440786203092975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 536
+        width: 70
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f064da028e0246a2a228d4ef44af5
+      internalID: 9186823293851622211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 536
+        width: 70
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f69b52153a9ca44a76c4af34c03f21
+      internalID: 4473017675976299203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 536
+        width: 70
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab682b84a892ca24c91f3801bbcf53b4
+      internalID: -8271061639773354212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 536
+        width: 70
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279d6d0e001969f43ba9921f017258c3
+      internalID: -8020418271565447780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 536
+        width: 70
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ae2ad1dcafbc4ea8b9b001e00803c
+      internalID: -226399741820768171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 536
+        width: 70
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea18f41fae323f48a3d8897b631d0df
+      internalID: -6215622664489742265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 70
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976e86b0f42f3f345a3b4a4ebd40c681
+      internalID: -8337505006595587188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 66
+        width: 70
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ddeb7ef729bf4da897fe59a35aa49
+      internalID: -6220932671431496954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 70
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e730ef3d78a449a047e1ddc3dbdba
+      internalID: 3274117221895605885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 66
+        width: 70
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5c349d05bf1640b2f4543475c89ee
+      internalID: 2304328564021852928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 70
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f2fe7602c421478b4902614ac4291
+      internalID: 2367515244003767004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 66
+        width: 70
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5123409076375a347a71361c870e2195
+      internalID: 151279974958704982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 66
+        width: 70
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805de978ceee4d342b0175b216cab3d1
+      internalID: -7746946566436816044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 66
+        width: 70
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c13bbc28dccd46b61d8e460c0acf1
+      internalID: 4240529312748650375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 66
+        width: 70
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5f24e60b945f429a6b8f12008e6df
+      internalID: -4573246805226510054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Note_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 66
+        width: 70
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec08326347b2c4391b53ff219d18f8
+      internalID: 5836662691138145873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7bf97804b6400a848a417050a283c99c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

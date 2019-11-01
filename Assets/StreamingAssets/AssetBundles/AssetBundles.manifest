@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1989675450
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlas.hd
+      Dependencies: {}
+    Info_1:
+      Name: bms
+      Dependencies: {}

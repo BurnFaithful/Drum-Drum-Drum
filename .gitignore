@@ -1,0 +1,11 @@
+*.csproj
+*.ide-wal
+*.ide-shm
+*.ide
+*.lock
+*.sln
+Library/
+Temp/
+obj/
+Assets/BMSFiles/
+Assets/BMSFiles.meta
