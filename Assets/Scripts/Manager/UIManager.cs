@@ -77,7 +77,7 @@ public class UIManager : MonoSingleton<UIManager>
             transform.GetChild(i).gameObject.SetActive(false);
         }
     }
-
+     
     protected override void Initialize()
     {
         JudgeUIIntialize();

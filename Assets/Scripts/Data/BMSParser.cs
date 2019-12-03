@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System;
+using System.Text;
 using System.IO;
 
 public class BMSParser : MonoBehaviour {
@@ -67,8 +68,16 @@ public class BMSParser : MonoBehaviour {
     {
         if (splitText[0].Equals("#GENRE"))
         {
-            for (int i = 1; i < splitText.Length; ++i)
-                bmsHeader.info.genre += splitText[i] + " ";
+            if (splitText.Length > 2)
+            {
+                StringBuilder genreSB = new StringBuilder();
+                for (int i = 1; i < splitText.Length; ++i)
+                    genreSB.Append(splitText[i]).Append(" ");
+
+                bmsHeader.info.genre = genreSB.ToString();
+            }
+            else
+                bmsHeader.info.genre = splitText[1];
         }
         else if (splitText[0].Equals("#TITLE"))
         {
@@ -136,14 +145,35 @@ public class BMSParser : MonoBehaviour {
         else if (splitText[0].Substring(0, 4).Equals("#WAV"))
         {
             string key = splitText[0].Substring(4, 2);
-            string value = splitText[1];
+            string value = string.Empty;
+            if (splitText.Length > 2)
+            {
+                StringBuilder wavSB = new StringBuilder();
+                for (int i = 1; i < splitText.Length; ++i)
+                    wavSB.Append(splitText[i]).Append(" ");
+
+                value = wavSB.ToString();
+            }
+            else
+                value = splitText[1];
             LoadManager.Instance.SoundData.Add(key, value);
         }
         // BMP
         else if (splitText[0].Substring(0, 4).Equals("#BMP"))
         {
             string key = splitText[0].Substring(4, 2);
-            string value = splitText[1];
+            string value = string.Empty;
+            if (splitText.Length > 2)
+            {
+                StringBuilder bmpSB = new StringBuilder();
+                for (int i = 1; i < splitText.Length; ++i)
+                    bmpSB.Append(splitText[i]);
+
+                value = bmpSB.ToString();
+            }
+            else
+                value = splitText[1];
+
             LoadManager.Instance.ImageData.Add(key, value);
         }
         // DIFFICULTY
